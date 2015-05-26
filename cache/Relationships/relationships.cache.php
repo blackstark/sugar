@@ -4442,27 +4442,27 @@
     'join_key_lhs' => 'document_id',
     'join_key_rhs' => 'bug_id',
   ),
-  'k1_house_notes' => 
+  'k1_house_k1_office' => 
   array (
-    'name' => 'k1_house_notes',
+    'name' => 'k1_house_k1_office',
     'true_relationship_type' => 'one-to-many',
     'relationships' => 
     array (
-      'k1_house_notes' => 
+      'k1_house_k1_office' => 
       array (
         'lhs_module' => 'K1_House',
         'lhs_table' => 'k1_house',
         'lhs_key' => 'id',
-        'rhs_module' => 'Notes',
-        'rhs_table' => 'notes',
+        'rhs_module' => 'K1_office',
+        'rhs_table' => 'k1_office',
         'rhs_key' => 'id',
         'relationship_type' => 'many-to-many',
-        'join_table' => 'k1_house_notes_c',
-        'join_key_lhs' => 'k1_house_notesk1_house_ida',
-        'join_key_rhs' => 'k1_house_notesnotes_idb',
+        'join_table' => 'k1_house_k1_office_c',
+        'join_key_lhs' => 'k1_house_k1_officek1_house_ida',
+        'join_key_rhs' => 'k1_house_k1_officek1_office_idb',
       ),
     ),
-    'table' => 'k1_house_notes_c',
+    'table' => 'k1_house_k1_office_c',
     'fields' => 
     array (
       0 => 
@@ -4486,13 +4486,13 @@
       ),
       3 => 
       array (
-        'name' => 'k1_house_notesk1_house_ida',
+        'name' => 'k1_house_k1_officek1_house_ida',
         'type' => 'varchar',
         'len' => 36,
       ),
       4 => 
       array (
-        'name' => 'k1_house_notesnotes_idb',
+        'name' => 'k1_house_k1_officek1_office_idb',
         'type' => 'varchar',
         'len' => 36,
       ),
@@ -4501,7 +4501,7 @@
     array (
       0 => 
       array (
-        'name' => 'k1_house_notesspk',
+        'name' => 'k1_house_k1_officespk',
         'type' => 'primary',
         'fields' => 
         array (
@@ -4510,33 +4510,33 @@
       ),
       1 => 
       array (
-        'name' => 'k1_house_notes_ida1',
+        'name' => 'k1_house_k1_office_ida1',
         'type' => 'index',
         'fields' => 
         array (
-          0 => 'k1_house_notesk1_house_ida',
+          0 => 'k1_house_k1_officek1_house_ida',
         ),
       ),
       2 => 
       array (
-        'name' => 'k1_house_notes_alt',
+        'name' => 'k1_house_k1_office_alt',
         'type' => 'alternate_key',
         'fields' => 
         array (
-          0 => 'k1_house_notesnotes_idb',
+          0 => 'k1_house_k1_officek1_office_idb',
         ),
       ),
     ),
     'lhs_module' => 'K1_House',
     'lhs_table' => 'k1_house',
     'lhs_key' => 'id',
-    'rhs_module' => 'Notes',
-    'rhs_table' => 'notes',
+    'rhs_module' => 'K1_office',
+    'rhs_table' => 'k1_office',
     'rhs_key' => 'id',
     'relationship_type' => 'many-to-many',
-    'join_table' => 'k1_house_notes_c',
-    'join_key_lhs' => 'k1_house_notesk1_house_ida',
-    'join_key_rhs' => 'k1_house_notesnotes_idb',
+    'join_table' => 'k1_house_k1_office_c',
+    'join_key_lhs' => 'k1_house_k1_officek1_house_ida',
+    'join_key_rhs' => 'k1_house_k1_officek1_office_idb',
   ),
   'user_direct_reports' => 
   array (
@@ -7089,6 +7089,50 @@
     'lhs_key' => 'id',
     'rhs_module' => 'K1_House',
     'rhs_table' => 'k1_house',
+    'rhs_key' => 'assigned_user_id',
+    'relationship_type' => 'one-to-many',
+  ),
+  'K1_office' => 
+  array (
+    'name' => 'K1_office',
+    'lhs_module' => 'K1_House',
+    'lhs_table' => 'k1_house',
+    'lhs_key' => 'id',
+    'rhs_module' => 'K1_office',
+    'rhs_table' => 'k1_office',
+    'rhs_key' => 'house_id',
+    'relationship_type' => 'one-to-many',
+  ),
+  'k1_office_modified_user' => 
+  array (
+    'name' => 'k1_office_modified_user',
+    'lhs_module' => 'Users',
+    'lhs_table' => 'users',
+    'lhs_key' => 'id',
+    'rhs_module' => 'K1_office',
+    'rhs_table' => 'k1_office',
+    'rhs_key' => 'modified_user_id',
+    'relationship_type' => 'one-to-many',
+  ),
+  'k1_office_created_by' => 
+  array (
+    'name' => 'k1_office_created_by',
+    'lhs_module' => 'Users',
+    'lhs_table' => 'users',
+    'lhs_key' => 'id',
+    'rhs_module' => 'K1_office',
+    'rhs_table' => 'k1_office',
+    'rhs_key' => 'created_by',
+    'relationship_type' => 'one-to-many',
+  ),
+  'k1_office_assigned_user' => 
+  array (
+    'name' => 'k1_office_assigned_user',
+    'lhs_module' => 'Users',
+    'lhs_table' => 'users',
+    'lhs_key' => 'id',
+    'rhs_module' => 'K1_office',
+    'rhs_table' => 'k1_office',
     'rhs_key' => 'assigned_user_id',
     'relationship_type' => 'one-to-many',
   ),

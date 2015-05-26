@@ -1,5 +1,5 @@
 <?php
-// created: 2015-05-21 18:17:44
+// created: 2015-05-26 17:36:55
 $mod_strings = array (
   'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
   'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
@@ -68,5 +68,4 @@ $mod_strings = array (
   'LBL_DATE_ENTERED' => 'Date Created',
   'LBL_DATE_MODIFIED' => 'Date Modified',
   'LBL_DELETED' => 'Deleted',
-  'LBL_K1_HOUSE_NOTES_FROM_K1_HOUSE_TITLE' => 'Объекты недвижимости',
 );

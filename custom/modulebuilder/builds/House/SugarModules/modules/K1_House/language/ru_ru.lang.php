@@ -68,4 +68,5 @@ $mod_strings = array (
   'LBL_ROOMS_LIST' => 'rooms list',
   'LBL_DETAILVIEW_PANEL1' => 'Новая панель 1',
   'LBL_IMAGE' => 'image',
+  'LBL_OFFICE_ID' => 'office_id',
 );

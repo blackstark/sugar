@@ -9,7 +9,7 @@ global $sugar_config;
 $db = DBManagerFactory::getInstance(); // получения объекта для работы с БД
 
 $result = $db ->query('SELECT * FROM k1_house WHERE id = '.$_REQUEST["record"]); // выполнить SQL запрос
-$focus = new k1_house();
+$focus = new K1_House();
 $focus->retrieve($_REQUEST["record"]);
 ?>
 <form name="ok1" method="post">
@@ -32,4 +32,6 @@ $k1_house->change($focus,$_POST['text'],$_POST['textd'],$_POST['textr'],$_POST["
 echo '<pre>';
 print_r($_REQUEST);
 echo '</pre>';
+
+
 ?>

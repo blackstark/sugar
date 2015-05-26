@@ -36,6 +36,7 @@
 
 
 $app_list_strings['moduleList']['K1_House'] = 'Объекты недвижимости';
+$app_list_strings['moduleList']['K1_office'] = 'Офис';
 $app_list_strings['rooms_list_list'][1] = '1';
 $app_list_strings['rooms_list_list'][2] = '2';
 $app_list_strings['rooms_list_list'][3] = '3';

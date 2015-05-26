@@ -40,4 +40,5 @@ global $sugar_config;
 echo '<pre>';
 print_r($sugar_config);
 echo '</pre>';
+
 ?>

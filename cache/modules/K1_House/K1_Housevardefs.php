@@ -222,14 +222,6 @@
       'studio' => 'visible',
       'dependency' => false,
     ),
-    'wc' => 
-    array (
-      'required' => false,
-      'name' => 'wc',
-      'vname' => 'LBL_VALIDATED',
-      'type' => 'bool',
-      'default' => false,
-    ),
     'image' => 
     array (
       'required' => false,
@@ -248,18 +240,18 @@
       'unified_search' => false,
       'merge_filter' => 'disabled',
       'len' => '255',
-      'size' => '40',
+      'size' => '20',
     ),
-    'k1_house_notes' => 
+    'k1_house_k1_office' => 
     array (
-      'name' => 'k1_house_notes',
+      'name' => 'k1_house_k1_office',
       'type' => 'link',
-      'relationship' => 'k1_house_notes',
+      'relationship' => 'k1_house_k1_office',
       'source' => 'non-db',
-      'module' => 'Notes',
-      'bean_name' => 'Note',
+      'module' => 'K1_office',
+      'bean_name' => 'K1_office',
       'side' => 'right',
-      'vname' => 'LBL_K1_HOUSE_NOTES_FROM_NOTES_TITLE',
+      'vname' => 'LBL_K1_HOUSE_K1_OFFICE_FROM_K1_OFFICE_TITLE',
     ),
   ),
   'relationships' => 
@@ -292,6 +284,16 @@
       'rhs_module' => 'K1_House',
       'rhs_table' => 'k1_house',
       'rhs_key' => 'assigned_user_id',
+      'relationship_type' => 'one-to-many',
+    ),
+    'K1_office' => 
+    array (
+      'lhs_module' => 'K1_House',
+      'lhs_table' => 'k1_house',
+      'lhs_key' => 'id',
+      'rhs_module' => 'K1_office',
+      'rhs_table' => 'k1_office',
+      'rhs_key' => 'house_id',
       'relationship_type' => 'one-to-many',
     ),
   ),

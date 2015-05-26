@@ -1,5 +1,5 @@
 <?php
-// created: 2015-05-21 18:17:28
+// created: 2015-05-26 17:35:15
 $mod_strings = array (
   'LBL_ASSIGNED_TO_ID' => 'Ответственный(ая)',
   'LBL_ASSIGNED_TO_NAME' => 'Ответственный(ая)',
@@ -68,6 +68,5 @@ $mod_strings = array (
   'LBL_DATE_ENTERED' => 'Дата создания',
   'LBL_DATE_MODIFIED' => 'Дата изменения',
   'LBL_DELETED' => 'Удалено',
-  'LBL_K1_HOUSE_NOTES_FROM_K1_HOUSE_TITLE' => 'Объекты недвижимости',
   'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Группы пользователей',
 );

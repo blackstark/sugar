@@ -11,6 +11,10 @@ class K1_HouseController extends SugarController
         $this->view = 'my'; // указываем название view, которое хотим подгрузить
 
     }
+    function action_tpl()
+    {
+        $this->view = 'tpl';
+    }
 
 }
 

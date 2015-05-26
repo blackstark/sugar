@@ -1,5 +1,5 @@
 <?php
-// created: 2015-05-21 18:17:31
+// created: 2015-05-26 17:35:17
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Дата создания',
@@ -34,5 +34,7 @@ $mod_strings = array (
   'LBL_ROOMS_LIST' => 'rooms list',
   'LBL_DETAILVIEW_PANEL1' => 'Новая панель 1',
   'LBL_IMAGE' => 'image',
+  'LBL_OFFICE_ID' => 'office_id',
   'LBL_K1_HOUSE_NOTES_FROM_NOTES_TITLE' => 'Заметки',
+  'LBL_K1_HOUSE_K1_OFFICE_FROM_K1_OFFICE_TITLE' => 'K1_office',
 );

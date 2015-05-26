@@ -35,13 +35,13 @@
  ********************************************************************************/
 
 $relationships = array (
-  'k1_house_notes' => 
+  'k1_house_k1_office' => 
   array (
-    'rhs_label' => 'Заметки',
+    'rhs_label' => 'K1_office',
     'lhs_label' => 'Объекты недвижимости',
     'rhs_subpanel' => 'default',
     'lhs_module' => 'K1_House',
-    'rhs_module' => 'Notes',
+    'rhs_module' => 'K1_office',
     'relationship_type' => 'one-to-many',
     'readonly' => false,
     'deleted' => false,
@@ -49,6 +49,6 @@ $relationships = array (
     'for_activities' => false,
     'is_custom' => false,
     'from_studio' => false,
-    'relationship_name' => 'k1_house_notes',
+    'relationship_name' => 'k1_house_k1_office',
   ),
 );

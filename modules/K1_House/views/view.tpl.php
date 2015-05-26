@@ -1,6 +1,6 @@
 <?php
 
-class real_RealityViewTpl extends SugarView {
+class K1_House extends SugarView {
     function display(){
         $ss = new Sugar_Smarty();
         $ss->assign('var1',123);
@@ -12,7 +12,8 @@ class real_RealityViewTpl extends SugarView {
                 1003 => 'Charlie Brown')
         );
         $ss->assign('customer_id', 1001);
-        $pathTpl = file_exists('custom/modules/real_Reality/tpls/test.tpl') ? 'custom/modules/real_Reality/tpls/test.tpl' : 'modules/real_Reality/tpls/test.tpl';
+        $pathTpl = file_exists('modules/K1_House/tpls/test.tpl');
         $ss->display($pathTpl);
+
     }
-} 
+}

@@ -3,7 +3,7 @@
 
  
  //WARNING: The contents of this file are auto-generated
-include('custom/metadata/k1_house_notesMetaData.php');
+include('custom/metadata/k1_house_k1_officeMetaData.php');
 
 
 ?>

@@ -1,8 +1,6 @@
 <?php
-// created: 2015-05-21 18:17:44
+// created: 2015-05-26 17:36:55
 $mod_strings = array (
-  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
-  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
   'LBL_DATE_MODIFIED' => 'Date Modified',
@@ -19,6 +17,8 @@ $mod_strings = array (
   'LBL_LIST_NAME' => 'Name',
   'LBL_EDIT_BUTTON' => 'Edit',
   'LBL_REMOVE' => 'Remove',
+  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
+  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
   'LBL_LIST_FORM_TITLE' => 'Объекты недвижимости List',
   'LBL_MODULE_NAME' => 'Объекты недвижимости',
   'LBL_MODULE_TITLE' => 'Объекты недвижимости',
@@ -33,5 +33,7 @@ $mod_strings = array (
   'LBL_NEW_FORM_TITLE' => 'New Объекты недвижимости',
   'LBL_ROOMS_LIST' => 'rooms list',
   'LBL_IMAGE' => 'image',
+  'LBL_OFFICE_ID' => 'office_id',
   'LBL_K1_HOUSE_NOTES_FROM_NOTES_TITLE' => 'Заметки',
+  'LBL_K1_HOUSE_K1_OFFICE_FROM_K1_OFFICE_TITLE' => 'K1_office',
 );

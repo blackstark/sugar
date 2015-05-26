@@ -67,4 +67,5 @@ $mod_strings = array (
   'LBL_NEW_FORM_TITLE' => 'New Объекты недвижимости',
   'LBL_ROOMS_LIST' => 'rooms list',
   'LBL_IMAGE' => 'image',
+  'LBL_OFFICE_ID' => 'office_id',
 );

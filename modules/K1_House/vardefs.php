@@ -63,13 +63,6 @@ $dictionary['K1_House'] = array(
     'studio' => 'visible',
     'dependency' => false,
   ),
-            'wc' => array(
-                'required' => false,
-                'name' => 'wc',
-                'vname' => 'LBL_VALIDATED',
-                'type' => 'bool',
-                'default' => false,
-            ),
   'image' => 
   array (
     'required' => false,
@@ -88,11 +81,13 @@ $dictionary['K1_House'] = array(
     'unified_search' => false,
     'merge_filter' => 'disabled',
     'len' => '255',
-    'size' => '40',
+    'size' => '20',
   ),
 ),
-	'relationships'=>array (
-),
+    'relationships' => array(
+        'K1_office' => array('lhs_module' => 'K1_House', 'lhs_table' => 'k1_house', 'lhs_key' => 'id',
+            'rhs_module' => 'K1_office', 'rhs_table' => 'k1_office', 'rhs_key' => 'house_id',
+            'relationship_type' => 'one-to-many')),
 	'optimistic_locking'=>true,
 		'unified_search'=>true,
 	);

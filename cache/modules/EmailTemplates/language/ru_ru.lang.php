@@ -1,5 +1,5 @@
 <?php
-// created: 2015-05-21 18:17:28
+// created: 2015-05-26 17:35:15
 $mod_strings = array (
   'LBL_ADD_ANOTHER_FILE' => 'Добавить другой файл',
   'LBL_ADD_DOCUMENT' => 'Добавить документ',
