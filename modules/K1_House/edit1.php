@@ -29,9 +29,27 @@ $focus->retrieve($_REQUEST["record"]);
 <?php
 $k1_house=new K1_House();
 $k1_house->change($focus,$_POST['text'],$_POST['textd'],$_POST['textr'],$_POST["checkbox"]);
+
 echo '<pre>';
 print_r($_REQUEST);
 echo '</pre>';
-
-
+$bro=new K1_House();
+$list=$bro->get_list_office($_REQUEST["record"]);
+echo '<pre>';
+print_r($list);
+echo '</pre>';
 ?>
+<table border="1">
+    <tr>
+        <th>id офиса</th>
+        <th>Имя офиса</th>
+    </tr>
+    <?php
+    foreach ($list as $v) {
+    ?>
+    <tr>
+        <td><?= $v['id'] ?></td>
+        <td><?= $v['name'] ?></td>
+    </tr>
+<?php
+}

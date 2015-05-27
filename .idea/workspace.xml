@@ -28,99 +28,118 @@
       <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/K1_House/view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.5" vertical-offset="208" max-vertical-offset="816">
+            <state vertical-scroll-proportion="-25.5" vertical-offset="0" max-vertical-offset="816">
               <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/K1_House/list.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="697">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1432203923985" expanded="true" signature="242:284" placeholder="SELECT * FRO..k1_house..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="vardefs.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/Documents/vardefs.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.537037" vertical-offset="6943" max-vertical-offset="7599">
-              <caret line="426" column="5" selection-start-line="421" selection-start-column="2" selection-end-line="426" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Document.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/Documents/Document.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="25.5" vertical-offset="663" max-vertical-offset="6732">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1417564157000" expanded="true" signature="7102:7179" placeholder="update linke..." />
-                <marker date="1417564157000" expanded="true" signature="7846:8326" placeholder="SELECT users..users..." />
-                <marker date="1417564157000" expanded="true" signature="13966:14035" placeholder="select docum..documents..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="K1_House.php" pinned="false" current-in-tab="false">
-        <entry file="file://D:/K1_House/K1_House.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-28.115385" vertical-offset="459" max-vertical-offset="2057">
-              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
-              <folding>
-                <element signature="e#6#2020#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="K1_House.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/K1_House/K1_House.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.076923" vertical-offset="846" max-vertical-offset="1496">
-              <caret line="115" column="2" selection-start-line="115" selection-start-column="2" selection-end-line="115" selection-end-column="2" />
-              <folding>
-                <marker date="1432654307376" expanded="true" signature="3371:3438" placeholder="SELECT * FRO..k1_house..." />
-                <marker date="1432654307376" expanded="true" signature="3525:3629" placeholder="SELECT * FRO..k1_house..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vardefs.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modules/K1_House/vardefs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76632303" vertical-offset="557" max-vertical-offset="1173">
-              <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
+            <state vertical-scroll-proportion="-30.461538" vertical-offset="874" max-vertical-offset="1768">
+              <caret line="98" column="65" selection-start-line="98" selection-start-column="65" selection-end-line="98" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vardefs.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/DocumentRevisions/vardefs.php">
+      <file leaf-file-name="vardefs.ext.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom/modules/K1_House/Ext/Vardefs/vardefs.ext.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="99.88461" vertical-offset="3583" max-vertical-offset="4165">
-              <caret line="58" column="14" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="14" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="374">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vardefs.php" pinned="false" current-in-tab="false">
-        <entry file="file://D:/K1_House/vardefs.php">
+      <file leaf-file-name="view.my.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/K1_House/views/view.my.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-49.03846" vertical-offset="0" max-vertical-offset="1530">
-              <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+            <state vertical-scroll-proportion="-20.923077" vertical-offset="1071" max-vertical-offset="6579">
+              <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="K1_House.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/K1_House/K1_House.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.88590604" vertical-offset="789" max-vertical-offset="1683">
+              <caret line="126" column="2" selection-start-line="126" selection-start-column="2" selection-end-line="126" selection-end-column="2" />
+              <folding>
+                <marker date="1432722729397" expanded="true" signature="3371:3438" placeholder="SELECT * FRO..k1_house..." />
+                <marker date="1432722729397" expanded="true" signature="3525:3629" placeholder="SELECT * FRO..k1_house..." />
+                <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+                <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+                <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+                <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+                <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+                <marker date="1432722729397" expanded="true" signature="4753:4793" placeholder="SELECT * FRO..k1_office..." />
+                <marker date="1432722729397" expanded="true" signature="4753:4794" placeholder="SELECT * FRO..k1_office..." />
+                <marker date="1432722729397" expanded="true" signature="4753:4797" placeholder="SELECT * FRO..k1_office..." />
+                <marker date="1432722729397" expanded="true" signature="4753:4806" placeholder="SELECT * FRO..k1_office..." />
+                <marker date="1432722729397" expanded="true" signature="4753:4808" placeholder="SELECT * FRO..k1_office..." />
+                <marker date="1432722729397" expanded="true" signature="4753:4811" placeholder="SELECT * FRO..k1_office..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/K1_House/edit1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.615385" vertical-offset="75" max-vertical-offset="1020">
+              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+              <folding>
+                <marker date="1432722247411" expanded="true" signature="243:277" placeholder="SELECT * FRO..k1_house..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/K1_House/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-28.846153" vertical-offset="100" max-vertical-offset="1020">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="52" selection-end-column="14" />
+              <folding>
+                <marker date="1432194142052" expanded="true" signature="244:266" placeholder="SELECT * FRO..k1_house..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vardefs.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/real_Reality/vardefs.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2890">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="K1_office.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/K1_office/K1_office.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="680">
+              <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+              <folding>
+                <marker date="1432716238854" expanded="true" signature="2387:2409" placeholder="SELECT * FRO..k1_house..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/K1_office/create.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="731">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -142,15 +161,18 @@
         <option value="$PROJECT_DIR$/modules/K1_House/my.php" />
         <option value="$PROJECT_DIR$/modules/K1_House/tpls/test.tpl" />
         <option value="$PROJECT_DIR$/modules/K1_House/controller.php" />
-        <option value="$PROJECT_DIR$/modules/K1_House/edit1.php" />
         <option value="$PROJECT_DIR$/modules/K1_House/views/view.tpl.php" />
         <option value="$PROJECT_DIR$/modules/K1_House/create.php" />
         <option value="$PROJECT_DIR$/modules/K1_House/view.php" />
-        <option value="$PROJECT_DIR$/modules/K1_office/vardefs.php" />
         <option value="$PROJECT_DIR$/modules/K1_House/K1_House_sugar.php" />
         <option value="D:/K1_House/K1_House.php" />
-        <option value="$PROJECT_DIR$/modules/K1_House/K1_House.php" />
+        <option value="$PROJECT_DIR$/modules/K1_office/create.php" />
+        <option value="$PROJECT_DIR$/modules/K1_office/menu.php" />
+        <option value="$PROJECT_DIR$/modules/K1_office/K1_office.php" />
         <option value="$PROJECT_DIR$/modules/K1_House/vardefs.php" />
+        <option value="$PROJECT_DIR$/modules/K1_office/vardefs.php" />
+        <option value="$PROJECT_DIR$/modules/K1_House/edit1.php" />
+        <option value="$PROJECT_DIR$/modules/K1_House/K1_House.php" />
       </list>
     </option>
   </component>
@@ -234,6 +256,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="K1_office" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sugar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sugar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="K1_House" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -252,7 +292,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="EmailAddresses" />
+              <option name="myItemId" value="K1_House" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -266,47 +310,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EAPM" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sugar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sugar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Documents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sugar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sugar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DocumentRevisions" />
+              <option name="myItemId" value="custom" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -320,6 +324,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\sugar\modules\K1_office" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp\www\sugar\modules\K1_House\tpls" />
     </key>
@@ -339,15 +346,15 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -372,7 +379,6 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -383,12 +389,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -414,11 +421,56 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/K1_House.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="846" max-vertical-offset="1496">
+          <caret line="115" column="2" selection-start-line="115" selection-start-column="2" selection-end-line="115" selection-end-column="2" />
+          <folding>
+            <marker date="1432722729397" expanded="true" signature="3371:3438" placeholder="SELECT * FRO..k1_house..." />
+            <marker date="1432722729397" expanded="true" signature="3525:3629" placeholder="SELECT * FRO..k1_house..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4793" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4794" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4797" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4806" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4808" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4811" placeholder="SELECT * FRO..k1_office..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/DocumentRevisions/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3583" max-vertical-offset="4165">
+          <caret line="58" column="14" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/K1_House/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="1530">
+          <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modules/real_Reality/Menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="561">
           <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -426,7 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="920">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -434,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -442,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -450,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="442">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -458,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.6153846" vertical-offset="296" max-vertical-offset="1190">
           <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -466,9 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="663">
           <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-          <folding>
-            <marker date="1432132428351" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..real_reality..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -476,6 +520,247 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/real_Reality/views/view.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="391">
+          <caret line="14" column="160" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/EmailMan/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/EmailMan/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3128">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/EmailMan/tpls/config.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12393">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/EmailMan/tpls/campaignconfig.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2210">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/EmailMan/views/view.list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="46.923077" vertical-offset="1220" max-vertical-offset="1802">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/EmailMan/views/view.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3128">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/EmailMan/views/view.campaignconfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-37.576923" vertical-offset="1216" max-vertical-offset="2346">
+          <caret line="129" column="71" selection-start-line="129" selection-start-column="71" selection-end-line="129" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/views/view.ajaxtest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/views/view.noaccess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/views/view.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="408">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Accounts/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="246.34616" vertical-offset="6405" max-vertical-offset="8160">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/DynamicFields/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="26.0" vertical-offset="676" max-vertical-offset="1258">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/EAPM/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="91.38461" vertical-offset="2376" max-vertical-offset="2958">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Documents/Document.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="6732">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1417564157000" expanded="true" signature="-1:-1" placeholder="update linke..." />
+            <marker date="1417564157000" expanded="true" signature="-1:-1" placeholder="SELECT users..users..." />
+            <marker date="1417564157000" expanded="true" signature="-1:-1" placeholder="select docum..documents..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/K1_House/K1_House.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="2057">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#2020#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/K1_House/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="1530">
+          <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.115385" vertical-offset="0" max-vertical-offset="850">
+          <caret line="43" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1432203923985" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..k1_house..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/SugarObjects/VardefManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7174">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Audit/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="920">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/EmailAddresses/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Documents/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.5" vertical-offset="6705" max-vertical-offset="7599">
+          <caret line="438" column="60" selection-start-line="438" selection-start-column="60" selection-end-line="438" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/DocumentRevisions/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="88.76923" vertical-offset="3294" max-vertical-offset="4165">
+          <caret line="58" column="14" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Calls/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="309.1154" vertical-offset="8037" max-vertical-offset="8908">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_office/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.538462" vertical-offset="0" max-vertical-offset="816">
+          <caret line="36" column="5" selection-start-line="17" selection-start-column="0" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_office/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="442">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_office/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.038462" vertical-offset="302" max-vertical-offset="1173">
+          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/K1_House/Ext/Vardefs/vardefs.ext.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/views/view.my.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.923077" vertical-offset="1071" max-vertical-offset="6579">
+          <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -488,249 +773,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/real_Reality/views/view.tpl.php">
+    <entry file="file://$PROJECT_DIR$/modules/K1_office/create.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="391">
-          <caret line="14" column="160" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="160" />
+        <state vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="731">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/EmailMan/controller.php">
+    <entry file="file://$PROJECT_DIR$/modules/K1_office/K1_office.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/EmailMan/vardefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3128">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/EmailMan/tpls/config.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12393">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/EmailMan/tpls/campaignconfig.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2210">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/EmailMan/views/view.list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="46.923077" vertical-offset="1220" max-vertical-offset="1802">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
           <folding>
-            <marker date="1417564157000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1417564157000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1417564157000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1417564157000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1417564157000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1417564157000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/EmailMan/views/view.config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3128">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/EmailMan/views/view.campaignconfig.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-37.576923" vertical-offset="1216" max-vertical-offset="2346">
-          <caret line="129" column="71" selection-start-line="129" selection-start-column="71" selection-end-line="129" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/K1_House/views/view.ajaxtest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/K1_House/views/view.noaccess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/K1_House/create.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.807692" vertical-offset="251" max-vertical-offset="850">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/K1_House/views/view.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="408">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/K1_House/views/view.my.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.087628864" vertical-offset="51" max-vertical-offset="6579">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/Accounts/vardefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="246.34616" vertical-offset="6405" max-vertical-offset="8160">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/DynamicFields/vardefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="26.0" vertical-offset="676" max-vertical-offset="1258">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/EAPM/vardefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="91.38461" vertical-offset="2376" max-vertical-offset="2958">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/K1_House/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1432194142052" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..k1_house..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/K1_House/edit1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5" vertical-offset="123" max-vertical-offset="731">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <marker date="1432646246006" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..k1_house..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/K1_House/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/K1_House/list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1432203923985" expanded="true" signature="242:284" placeholder="SELECT * FRO..k1_house..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/Documents/Document.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="25.5" vertical-offset="663" max-vertical-offset="6732">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1417564157000" expanded="true" signature="7102:7179" placeholder="update linke..." />
-            <marker date="1417564157000" expanded="true" signature="7846:8326" placeholder="SELECT users..users..." />
-            <marker date="1417564157000" expanded="true" signature="13966:14035" placeholder="select docum..documents..." />
+            <marker date="1432716238854" expanded="true" signature="2387:2409" placeholder="SELECT * FRO..k1_house..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/K1_House/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5" vertical-offset="208" max-vertical-offset="816">
+        <state vertical-scroll-proportion="-25.5" vertical-offset="0" max-vertical-offset="816">
           <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/DocumentRevisions/vardefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="99.88461" vertical-offset="3583" max-vertical-offset="4165">
-          <caret line="58" column="14" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/K1_House/K1_House.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-28.115385" vertical-offset="459" max-vertical-offset="2057">
-          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
-          <folding>
-            <element signature="e#6#2020#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/K1_House/K1_House.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.076923" vertical-offset="846" max-vertical-offset="1496">
-          <caret line="115" column="2" selection-start-line="115" selection-start-column="2" selection-end-line="115" selection-end-column="2" />
-          <folding>
-            <marker date="1432654307376" expanded="true" signature="3371:3438" placeholder="SELECT * FRO..k1_house..." />
-            <marker date="1432654307376" expanded="true" signature="3525:3629" placeholder="SELECT * FRO..k1_house..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/K1_House/vardefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-49.03846" vertical-offset="0" max-vertical-offset="1530">
-          <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/Documents/vardefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.537037" vertical-offset="6943" max-vertical-offset="7599">
-          <caret line="426" column="5" selection-start-line="421" selection-start-column="2" selection-end-line="426" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/K1_House/vardefs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76632303" vertical-offset="557" max-vertical-offset="1173">
-          <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
+        <state vertical-scroll-proportion="-30.461538" vertical-offset="874" max-vertical-offset="1768">
+          <caret line="98" column="65" selection-start-line="98" selection-start-column="65" selection-end-line="98" selection-end-column="65" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.846153" vertical-offset="100" max-vertical-offset="1020">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="52" selection-end-column="14" />
+          <folding>
+            <marker date="1432194142052" expanded="true" signature="244:266" placeholder="SELECT * FRO..k1_house..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/edit1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.615385" vertical-offset="75" max-vertical-offset="1020">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding>
+            <marker date="1432722247411" expanded="true" signature="243:277" placeholder="SELECT * FRO..k1_house..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/K1_House/K1_House.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.88590604" vertical-offset="789" max-vertical-offset="1683">
+          <caret line="126" column="2" selection-start-line="126" selection-start-column="2" selection-end-line="126" selection-end-column="2" />
+          <folding>
+            <marker date="1432722729397" expanded="true" signature="3371:3438" placeholder="SELECT * FRO..k1_house..." />
+            <marker date="1432722729397" expanded="true" signature="3525:3629" placeholder="SELECT * FRO..k1_house..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4787" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4793" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4794" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4797" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4806" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4808" placeholder="SELECT * FRO..k1_office..." />
+            <marker date="1432722729397" expanded="true" signature="4753:4811" placeholder="SELECT * FRO..k1_office..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -33,7 +33,7 @@
  * technical reasons, the Appropriate Legal Notices must display the words
  * "Powered by SugarCRM".
  ********************************************************************************/
-
+if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 $dictionary['K1_office'] = array(
 	'table'=>'k1_office',
 	'audited'=>true,
@@ -67,27 +67,23 @@ $dictionary['K1_office'] = array(
   ),
   'house_id' => 
   array (
-    'required' => false,
-    'name' => 'house_id',
-    'vname' => 'LBL_HOUSE_ID',
-    'type' => 'int',
-    'massupdate' => 0,
-    'no_default' => false,
-    'comments' => '',
-    'help' => '',
-    'importable' => 'true',
-    'duplicate_merge' => 'disabled',
-    'duplicate_merge_dom_value' => '0',
-    'audited' => false,
-    'reportable' => true,
-    'unified_search' => false,
-    'merge_filter' => 'disabled',
-    'len' => '255',
-    'size' => '20',
-    'enable_range_search' => false,
-    'disable_num_format' => '',
-    'min' => false,
-    'max' => false,
+      'required' => false,
+      'name' => 'house_id',
+      'vname' => 'LBL_HOUSE_ID',
+      'type' => 'varchar',
+      'massupdate' => 0,
+      'no_default' => false,
+      'comments' => '',
+      'help' => '',
+      'importable' => 'true',
+      'duplicate_merge' => 'disabled',
+      'duplicate_merge_dom_value' => '0',
+      'audited' => false,
+      'reportable' => true,
+      'unified_search' => false,
+      'merge_filter' => 'disabled',
+      'len' => '255',
+      'size' => '20',
   ),
 ),
 	'relationships'=>array (
@@ -98,4 +94,4 @@ $dictionary['K1_office'] = array(
 if (!class_exists('VardefManager')){
         require_once('include/SugarObjects/VardefManager.php');
 }
-VardefManager::createVardef('K1_office','K1_office', array('basic','assignable'));
+VardefManager::createVardef('K1_office','K1_office', array('default','assignable'));

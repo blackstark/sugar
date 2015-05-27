@@ -43,6 +43,26 @@ class K1_office extends K1_office_sugar {
 	function K1_office(){	
 		parent::K1_office_sugar();
 	}
-	
+    function get_list_my(){
+        $db = DBManagerFactory::getInstance(); // получения объекта для работы с БД
+
+        $result = $db ->query('SELECT * FROM k1_house'); // выполнить SQL запрос
+        $list = array();
+        while($row = $db->fetchByAssoc($result))
+        {
+            $list[] = $row;
+        }
+        return $list;
+    }
+    function create($text,$checkname)
+    {
+        if(!empty($_POST["text"])) {
+            global $sugar_config;
+            $focus = new K1_office();
+            $focus->name = $text;
+            $focus->house_id = $checkname;
+            $focus->save();
+        }
+    }
 }
 ?>

@@ -1,4 +1,5 @@
 <?php
+if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 /*********************************************************************************
  * SugarCRM Community Edition is a customer relationship management program developed by
  * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
@@ -66,23 +67,24 @@ $dictionary['K1_House'] = array(
   'image' => 
   array (
     'required' => false,
-    'name' => 'image',
-    'vname' => 'LBL_IMAGE',
-    'type' => 'varchar',
-    'massupdate' => 0,
-    'no_default' => false,
-    'comments' => '',
-    'help' => '',
-    'importable' => 'true',
-    'duplicate_merge' => 'disabled',
-    'duplicate_merge_dom_value' => '0',
-    'audited' => false,
-    'reportable' => true,
-    'unified_search' => false,
-    'merge_filter' => 'disabled',
-    'len' => '255',
-    'size' => '20',
+      'name' => 'image',
+      'vname' => 'LBL_IMAGE',
+      'type' => 'varchar',
+      'massupdate' => 0,
+      'no_default' => false,
+      'comments' => '',
+      'help' => '',
+      'importable' => 'true',
+      'duplicate_merge' => 'disabled',
+      'duplicate_merge_dom_value' => '0',
+      'audited' => false,
+      'reportable' => true,
+      'unified_search' => false,
+      'merge_filter' => 'disabled',
+      'len' => '255',
+      'size' => '20',
   ),
+
 ),
     'relationships' => array(
         'K1_office' => array('lhs_module' => 'K1_House', 'lhs_table' => 'k1_house', 'lhs_key' => 'id',
@@ -94,4 +96,4 @@ $dictionary['K1_House'] = array(
 if (!class_exists('VardefManager')){
         require_once('include/SugarObjects/VardefManager.php');
 }
-VardefManager::createVardef('K1_House','K1_House', array('basic','assignable'));
+VardefManager::createVardef('K1_House','K1_House', array('default','assignable'));

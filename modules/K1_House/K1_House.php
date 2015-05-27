@@ -112,5 +112,16 @@ class K1_House extends K1_House_sugar {
         $focus->save();
         SugarApplication::redirect('http://localhost/sugar/index.php?module=K1_House&action=list');
     }
+    function get_list_office($record){
+        $db = DBManagerFactory::getInstance(); // получения объекта для работы с БД
+
+        $result = $db ->query('SELECT * FROM k1_office WHERE house_id = '."\"$record\"" ); // выполнить SQL запрос
+        $list = array();
+        while($row = $db->fetchByAssoc($result))
+        {
+            $list[] = $row;
+        }
+        return $list;
+    }
 }
 ?>

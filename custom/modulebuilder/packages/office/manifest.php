@@ -60,9 +60,9 @@ $manifest = array (
   'icon' => '',
   'is_uninstallable' => true,
   'name' => 'office',
-  'published_date' => '2015-05-26 15:28:24',
+  'published_date' => '2015-05-27 08:36:06',
   'type' => 'module',
-  'version' => 1432654105,
+  'version' => 1432715767,
   'remove_tables' => 'prompt',
 );
 
